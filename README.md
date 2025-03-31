@@ -4,7 +4,14 @@ Issued by: Be 10x
 Completion Date: 30/03/2025
 
 
+This project leverages the power of AI to complete various tasks quickly and efficiently. Below are the key capabilities:
 
- Create Presentation using AI in unnder 15 min.
- Analyse data using AI in under 30 min.
- Code and Debug using AI in under 10 min.
+Features
+1. Create Presentations Using AI (Under 15 Minutes)
+Generate engaging and informative presentations in just a few minutes. The AI helps to structure slides, suggest content, and even design layouts.
+
+2. Analyze Data Using AI (Under 30 Minutes)
+Perform complex data analysis with AI in a fraction of the time. The AI processes and visualizes data, helping to uncover insights and patterns quickly.
+
+3. Code and Debug Using AI (Under 10 Minutes)
+Speed up the development process by leveraging AI for coding and debugging tasks. The AI assists in writing code, finding bugs, and suggesting improvements in record time.
